@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+.appp{
+    width: 300px;
+    height: 350px;
+    background: rgb(0, 0, 0);
+    margin:100px auto;
+    padding: 15px;
+    border-radius: 6px;
+    
+    
+  }
+  .header{
+    width: 300px;
+    height: 50px;
+    background: #fff;
+    margin: auto;
+    border-radius: 10px;
+   
+  }
+  .btnheader button{
+    width: 50px;
+    height: 50px;
+  }
+  .btnheader{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+  }
+  button{
+    cursor: pointer;
+    border-radius: 6px;
+  }
+  input{
+    border: none;
+    width: 300px;
+    height: 50px;
+  }
+  .red{
+    background: red;
+    font-weight: bold;
+    font-size: 20px;
+
+  }
+  .yellow{
+    background: yellow;
+    font-weight: bold;
+    font-size: 20px;
+  }
